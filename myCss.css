@@ -1,0 +1,41 @@
+body {
+  font-family: system-ui;
+  background: #f7e3c3;
+  color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 0;
+}
+
+.myDiv {
+  border-style: double;
+}
+
+ul {
+  max-width: 600px;
+  margin: 0 auto 40px auto;
+  text-align: left;
+  line-height: 2.0;
+}
+
+#img-caption {
+  font-style: italic
+}
+
+p {
+  font-size: 19px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
